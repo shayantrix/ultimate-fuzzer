@@ -20,8 +20,8 @@ echo " 						  NO!                          MNO!
 	     					   NNN.MNO!   O!!!!!!!!!O   OONO NO!
     						  MNNNNNO!    OOOOOOOOOOO    MMNNON!
       						    MNNNNO!    PPPPPPPPP    MMNON!
-  						       OO!                   ON!								
-								VORTEX
+  						       		OO!                   ON!								
+											VORTEX
 "
 > wpscan2.txt
 echo -e "you need these programs installed on your machine : gobuster, ffuf, dirb, wpscan\n"
